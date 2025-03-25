@@ -5,6 +5,6 @@ public class Greeting {
      * @return - the string "Hello, world!" instead of the string "change me"
      */
     public String sayHello(){
-        return "change me";
+        return "Hello, world!";
     }
 }
